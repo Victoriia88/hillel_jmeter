@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1745606808729,72,All characters,200,OK,PerformanceTesting 1-28,text,true,,2045,161,48,48,http://localhost:3001/characters,72,0,20
+1745606808730,71,All characters,200,OK,PerformanceTesting 1-41,text,true,,2045,161,48,48,http://localhost:3001/characters,71,0,19
+1745606808730,73,All characters,200,OK,PerformanceTesting 1-1,text,true,,2045,161,48,48,http://localhost:3001/characters,73,0,19
+1745606808730,73,All characters,200,OK,PerformanceTesting 1-5,text,true,,2045,161,48,48,http://localhost:3001/characters,73,0,19
+1745606808730,69,All characters,200,OK,PerformanceTesting 1-10,text,true,,2045,161,48,48,http://localhost:3001/characters,69,0,19
+1745606808728,57,All characters,200,OK,PerformanceTesting 1-7,text,true,,2045,161,47,47,http://localhost:3001/characters,57,0,20
+1745606808757,48,All characters,200,OK,PerformanceTesting 1-44,text,true,,2045,161,48,48,http://localhost:3001/characters,48,0,0
+1745606808728,75,All characters,200,OK,PerformanceTesting 1-34,text,true,,2045,161,48,48,http://localhost:3001/characters,75,0,21
+1745606808730,71,All characters,200,OK,PerformanceTesting 1-24,text,true,,2045,161,48,48,http://localhost:3001/characters,71,0,19
+1745606808730,72,All characters,200,OK,PerformanceTesting 1-35,text,true,,2045,161,48,48,http://localhost:3001/characters,72,0,19
+1745606808728,55,All characters,200,OK,PerformanceTesting 1-25,text,true,,2045,161,47,47,http://localhost:3001/characters,55,0,20
+1745606808727,77,All characters,200,OK,PerformanceTesting 1-16,text,true,,2045,161,48,48,http://localhost:3001/characters,77,0,22
+1745606808730,70,All characters,200,OK,PerformanceTesting 1-9,text,true,,2045,161,48,48,http://localhost:3001/characters,70,0,19
+1745606808730,74,All characters,200,OK,PerformanceTesting 1-3,text,true,,2045,161,48,48,http://localhost:3001/characters,74,0,19
+1745606808730,74,All characters,200,OK,PerformanceTesting 1-14,text,true,,2045,161,48,48,http://localhost:3001/characters,74,0,19
+1745606808745,58,All characters,200,OK,PerformanceTesting 1-43,text,true,,2045,161,48,48,http://localhost:3001/characters,58,0,4
+1745606808728,74,All characters,200,OK,PerformanceTesting 1-39,text,true,,2045,161,48,48,http://localhost:3001/characters,74,0,21
+1745606808727,78,All characters,200,OK,PerformanceTesting 1-26,text,true,,2045,161,48,48,http://localhost:3001/characters,78,0,23
+1745606808777,29,All characters,200,OK,PerformanceTesting 1-46,text,true,,2045,161,48,48,http://localhost:3001/characters,29,0,1
+1745606808766,40,All characters,200,OK,PerformanceTesting 1-45,text,true,,2045,161,48,48,http://localhost:3001/characters,40,0,1
+1745606808727,60,All characters,200,OK,PerformanceTesting 1-2,text,true,,2045,161,47,47,http://localhost:3001/characters,60,0,22
+1745606808796,10,All characters,200,OK,PerformanceTesting 1-48,text,true,,2045,161,49,49,http://localhost:3001/characters,10,0,0
+1745606808783,23,All characters,200,OK,PerformanceTesting 1-47,text,true,,2045,161,49,49,http://localhost:3001/characters,23,0,1
+1745606808730,54,All characters,200,OK,PerformanceTesting 1-32,text,true,,2045,161,47,47,http://localhost:3001/characters,54,0,18
+1745606808730,58,All characters,200,OK,PerformanceTesting 1-33,text,true,,2045,161,47,47,http://localhost:3001/characters,58,0,19
+1745606808727,56,All characters,200,OK,PerformanceTesting 1-18,text,true,,2045,161,47,47,http://localhost:3001/characters,56,0,21
+1745606808730,74,All characters,200,OK,PerformanceTesting 1-11,text,true,,2045,161,48,48,http://localhost:3001/characters,74,0,19
+1745606808730,72,All characters,200,OK,PerformanceTesting 1-31,text,true,,2045,161,48,48,http://localhost:3001/characters,72,0,19
+1745606808817,3,All characters,200,OK,PerformanceTesting 1-50,text,true,,2045,161,50,50,http://localhost:3001/characters,3,0,1
+1745606808729,58,All characters,200,OK,PerformanceTesting 1-4,text,true,,2045,161,47,47,http://localhost:3001/characters,58,0,20
+1745606808730,70,All characters,200,OK,PerformanceTesting 1-6,text,true,,2045,161,48,48,http://localhost:3001/characters,70,0,19
+1745606808729,74,All characters,200,OK,PerformanceTesting 1-17,text,true,,2045,161,48,48,http://localhost:3001/characters,74,0,20
+1745606808730,53,All characters,200,OK,PerformanceTesting 1-19,text,true,,2045,161,47,47,http://localhost:3001/characters,52,0,18
+1745606808730,71,All characters,200,OK,PerformanceTesting 1-36,text,true,,2045,161,48,48,http://localhost:3001/characters,71,0,19
+1745606808728,55,All characters,200,OK,PerformanceTesting 1-22,text,true,,2045,161,47,47,http://localhost:3001/characters,53,0,20
+1745606808730,75,All characters,200,OK,PerformanceTesting 1-38,text,true,,2045,161,48,48,http://localhost:3001/characters,75,0,20
+1745606808730,69,All characters,200,OK,PerformanceTesting 1-13,text,true,,2045,161,48,48,http://localhost:3001/characters,69,0,19
+1745606808729,54,All characters,200,OK,PerformanceTesting 1-21,text,true,,2045,161,47,47,http://localhost:3001/characters,52,0,19
+1745606808727,78,All characters,200,OK,PerformanceTesting 1-37,text,true,,2045,161,48,48,http://localhost:3001/characters,78,0,23
+1745606808730,69,All characters,200,OK,PerformanceTesting 1-27,text,true,,2045,161,48,48,http://localhost:3001/characters,69,0,19
+1745606808729,60,All characters,200,OK,PerformanceTesting 1-15,text,true,,2045,161,47,47,http://localhost:3001/characters,60,0,20
+1745606808808,1,All characters,200,OK,PerformanceTesting 1-49,text,true,,2045,161,49,49,http://localhost:3001/characters,1,0,0
+1745606808727,56,All characters,200,OK,PerformanceTesting 1-40,text,true,,2045,161,47,47,http://localhost:3001/characters,52,0,21
+1745606808728,77,All characters,200,OK,PerformanceTesting 1-20,text,true,,2045,161,48,48,http://localhost:3001/characters,77,0,21
+1745606808730,74,All characters,200,OK,PerformanceTesting 1-12,text,true,,2045,161,48,48,http://localhost:3001/characters,74,0,19
+1745606808728,75,All characters,200,OK,PerformanceTesting 1-30,text,true,,2045,161,48,48,http://localhost:3001/characters,75,0,21
+1745606808741,63,All characters,200,OK,PerformanceTesting 1-42,text,true,,2045,161,48,48,http://localhost:3001/characters,63,0,8
+1745606808729,71,All characters,200,OK,PerformanceTesting 1-29,text,true,,2045,161,48,48,http://localhost:3001/characters,71,0,20
+1745606808730,72,All characters,200,OK,PerformanceTesting 1-23,text,true,,2045,161,48,48,http://localhost:3001/characters,72,0,19
+1745606808730,75,All characters,200,OK,PerformanceTesting 1-8,text,true,,2045,161,48,48,http://localhost:3001/characters,75,0,20
+1745606808827,3,All characters,200,OK,PerformanceTesting 1-51,text,true,,2045,161,51,51,http://localhost:3001/characters,3,0,1
+1745606808836,2,All characters,200,OK,PerformanceTesting 1-52,text,true,,2045,161,52,52,http://localhost:3001/characters,2,0,0
+1745606808842,1,All characters,200,OK,PerformanceTesting 1-53,text,true,,2045,161,53,53,http://localhost:3001/characters,1,0,0
+1745606808856,2,All characters,200,OK,PerformanceTesting 1-54,text,true,,2045,161,54,54,http://localhost:3001/characters,2,0,1
+1745606808866,3,All characters,200,OK,PerformanceTesting 1-55,text,true,,2045,161,55,55,http://localhost:3001/characters,3,0,0
+1745606808877,2,All characters,200,OK,PerformanceTesting 1-56,text,true,,2045,161,56,56,http://localhost:3001/characters,1,0,0
+1745606808886,2,All characters,200,OK,PerformanceTesting 1-57,text,true,,2045,161,57,57,http://localhost:3001/characters,1,0,1
+1745606808893,1,All characters,200,OK,PerformanceTesting 1-58,text,true,,2045,161,58,58,http://localhost:3001/characters,1,0,0
+1745606808907,1,All characters,200,OK,PerformanceTesting 1-59,text,true,,2045,161,59,59,http://localhost:3001/characters,1,0,0
+1745606808914,1,All characters,200,OK,PerformanceTesting 1-60,text,true,,2045,161,60,60,http://localhost:3001/characters,1,0,0
+1745606808922,3,All characters,200,OK,PerformanceTesting 1-61,text,true,,2045,161,61,61,http://localhost:3001/characters,2,0,1
+1745606808931,3,All characters,200,OK,PerformanceTesting 1-62,text,true,,2045,161,62,62,http://localhost:3001/characters,3,0,1
+1745606808933,3,GetById,200,OK,PerformanceTesting 1-23,text,true,,277,163,62,62,http://localhost:3001/character/43,3,0,0
+1745606808933,4,GetById,200,OK,PerformanceTesting 1-61,text,true,,277,163,62,62,http://localhost:3001/character/43,4,0,0
+1745606808934,3,GetById,200,OK,PerformanceTesting 1-4,text,true,,277,163,62,62,http://localhost:3001/character/43,3,0,0
+1745606808933,4,GetById,200,OK,PerformanceTesting 1-15,text,true,,277,163,62,62,http://localhost:3001/character/43,4,0,0
+1745606808934,3,GetById,200,OK,PerformanceTesting 1-51,text,true,,277,163,62,62,http://localhost:3001/character/43,3,0,0
+1745606808934,3,GetById,200,OK,PerformanceTesting 1-11,text,true,,277,163,62,62,http://localhost:3001/character/43,3,0,0
+1745606808933,3,GetById,200,OK,PerformanceTesting 1-24,text,true,,277,163,62,62,http://localhost:3001/character/43,3,0,0
+1745606808934,3,GetById,200,OK,PerformanceTesting 1-19,text,true,,277,163,62,62,http://localhost:3001/character/43,3,0,0
+1745606808933,3,GetById,200,OK,PerformanceTesting 1-8,text,true,,277,163,62,62,http://localhost:3001/character/43,3,0,0
+1745606808933,5,GetById,200,OK,PerformanceTesting 1-21,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808934,5,GetById,200,OK,PerformanceTesting 1-37,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808934,5,GetById,200,OK,PerformanceTesting 1-36,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808934,4,GetById,200,OK,PerformanceTesting 1-7,text,true,,277,163,62,62,http://localhost:3001/character/43,4,0,0
+1745606808934,5,GetById,200,OK,PerformanceTesting 1-34,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808933,4,GetById,200,OK,PerformanceTesting 1-10,text,true,,277,163,62,62,http://localhost:3001/character/43,4,0,0
+1745606808933,7,GetById,200,OK,PerformanceTesting 1-49,text,true,,277,163,62,62,http://localhost:3001/character/43,7,0,0
+1745606808934,6,GetById,200,OK,PerformanceTesting 1-38,text,true,,277,163,62,62,http://localhost:3001/character/43,6,0,0
+1745606808933,7,GetById,200,OK,PerformanceTesting 1-13,text,true,,277,163,62,62,http://localhost:3001/character/44,7,0,0
+1745606808935,5,GetById,200,OK,PerformanceTesting 1-33,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808934,4,GetById,200,OK,PerformanceTesting 1-12,text,true,,277,163,62,62,http://localhost:3001/character/43,4,0,0
+1745606808935,5,GetById,200,OK,PerformanceTesting 1-53,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808934,4,GetById,200,OK,PerformanceTesting 1-18,text,true,,277,163,62,62,http://localhost:3001/character/44,3,0,0
+1745606808935,6,GetById,200,OK,PerformanceTesting 1-55,text,true,,277,163,62,62,http://localhost:3001/character/43,6,0,0
+1745606808935,6,GetById,200,OK,PerformanceTesting 1-31,text,true,,277,163,62,62,http://localhost:3001/character/43,6,0,0
+1745606808935,6,GetById,200,OK,PerformanceTesting 1-59,text,true,,277,163,62,62,http://localhost:3001/character/43,6,0,0
+1745606808936,5,GetById,200,OK,PerformanceTesting 1-62,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808936,5,GetById,200,OK,PerformanceTesting 1-58,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808936,5,GetById,200,OK,PerformanceTesting 1-32,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808934,7,GetById,200,OK,PerformanceTesting 1-22,text,true,,277,163,62,62,http://localhost:3001/character/43,7,0,0
+1745606808936,5,GetById,200,OK,PerformanceTesting 1-52,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808936,6,GetById,200,OK,PerformanceTesting 1-54,text,true,,277,163,62,62,http://localhost:3001/character/43,6,0,0
+1745606808935,7,GetById,200,OK,PerformanceTesting 1-42,text,true,,277,163,62,62,http://localhost:3001/character/43,7,0,0
+1745606808936,6,GetById,200,OK,PerformanceTesting 1-60,text,true,,277,163,62,62,http://localhost:3001/character/43,6,0,0
+1745606808934,4,GetById,200,OK,PerformanceTesting 1-57,text,true,,277,163,62,62,http://localhost:3001/character/43,4,0,0
+1745606808937,5,GetById,200,OK,PerformanceTesting 1-29,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808936,6,GetById,200,OK,PerformanceTesting 1-40,text,true,,277,163,62,62,http://localhost:3001/character/43,6,0,0
+1745606808937,5,GetById,200,OK,PerformanceTesting 1-47,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808937,5,GetById,200,OK,PerformanceTesting 1-28,text,true,,277,163,62,62,http://localhost:3001/character/43,5,0,0
+1745606808934,4,GetById,200,OK,PerformanceTesting 1-50,text,true,,277,163,62,62,http://localhost:3001/character/43,4,0,0
+1745606808934,11,GetById,200,OK,PerformanceTesting 1-5,text,true,,277,163,63,63,http://localhost:3001/character/43,11,0,0
+1745606808938,9,CreateHero,201,Created,PerformanceTesting 1-19,text,true,,282,231,63,63,http://localhost:3001/character,9,0,0
+1745606808939,9,CreateHero,201,Created,PerformanceTesting 1-61,text,true,,282,231,63,63,http://localhost:3001/character,9,0,0
+1745606808940,9,CreateHero,201,Created,PerformanceTesting 1-34,text,true,,282,231,63,63,http://localhost:3001/character,9,0,0
+1745606808940,9,CreateHero,201,Created,PerformanceTesting 1-10,text,true,,282,231,63,63,http://localhost:3001/character,9,0,0
+1745606808940,10,CreateHero,201,Created,PerformanceTesting 1-49,text,true,,282,231,63,63,http://localhost:3001/character,10,0,0
+1745606808941,9,CreateHero,201,Created,PerformanceTesting 1-13,text,true,,282,231,63,63,http://localhost:3001/character,9,0,0
+1745606808941,10,CreateHero,201,Created,PerformanceTesting 1-12,text,true,,282,231,63,63,http://localhost:3001/character,10,0,0
+1745606808941,10,CreateHero,201,Created,PerformanceTesting 1-38,text,true,,282,231,63,63,http://localhost:3001/character,10,0,0
+1745606808941,11,CreateHero,201,Created,PerformanceTesting 1-33,text,true,,282,231,64,64,http://localhost:3001/character,11,0,0
+1745606808941,12,CreateHero,201,Created,PerformanceTesting 1-18,text,true,,282,231,64,64,http://localhost:3001/character,12,0,0
+1745606808938,16,CreateHero,201,Created,PerformanceTesting 1-11,text,true,,282,231,64,64,http://localhost:3001/character,16,0,0
+1745606808941,13,CreateHero,201,Created,PerformanceTesting 1-31,text,true,,282,231,64,64,http://localhost:3001/character,13,0,0
+1745606808941,13,CreateHero,201,Created,PerformanceTesting 1-53,text,true,,282,231,64,64,http://localhost:3001/character,13,0,0
+1745606808939,15,CreateHero,201,Created,PerformanceTesting 1-4,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808938,17,CreateHero,201,Created,PerformanceTesting 1-24,text,true,,282,231,64,64,http://localhost:3001/character,17,0,0
+1745606808940,15,CreateHero,201,Created,PerformanceTesting 1-36,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808941,14,CreateHero,201,Created,PerformanceTesting 1-62,text,true,,282,231,64,64,http://localhost:3001/character,14,0,0
+1745606808941,15,CreateHero,201,Created,PerformanceTesting 1-58,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808942,14,CreateHero,201,Created,PerformanceTesting 1-22,text,true,,282,231,64,64,http://localhost:3001/character,14,0,0
+1745606808942,14,CreateHero,201,Created,PerformanceTesting 1-54,text,true,,282,231,64,64,http://localhost:3001/character,14,0,0
+1745606808942,15,CreateHero,201,Created,PerformanceTesting 1-42,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808942,15,CreateHero,201,Created,PerformanceTesting 1-52,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808942,15,CreateHero,201,Created,PerformanceTesting 1-47,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808942,15,CreateHero,201,Created,PerformanceTesting 1-29,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808943,14,CreateHero,201,Created,PerformanceTesting 1-7,text,true,,282,231,64,64,http://localhost:3001/character,14,0,0
+1745606808943,15,CreateHero,201,Created,PerformanceTesting 1-37,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808943,14,GetById,200,OK,PerformanceTesting 1-44,text,true,,277,163,64,64,http://localhost:3001/character/43,14,0,0
+1745606808943,16,GetById,200,OK,PerformanceTesting 1-20,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808944,15,CreateHero,201,Created,PerformanceTesting 1-51,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808944,16,GetById,200,OK,PerformanceTesting 1-46,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808944,16,GetById,200,OK,PerformanceTesting 1-48,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808944,16,CreateHero,201,Created,PerformanceTesting 1-15,text,true,,282,231,64,64,http://localhost:3001/character,16,0,0
+1745606808941,15,CreateHero,201,Created,PerformanceTesting 1-23,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808945,16,GetById,200,OK,PerformanceTesting 1-2,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808944,16,GetById,200,OK,PerformanceTesting 1-45,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808944,17,CreateHero,201,Created,PerformanceTesting 1-8,text,true,,282,231,64,64,http://localhost:3001/character,17,0,0
+1745606808945,16,GetById,200,OK,PerformanceTesting 1-6,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808943,14,CreateHero,201,Created,PerformanceTesting 1-21,text,true,,282,231,64,64,http://localhost:3001/character,14,0,0
+1745606808945,16,GetById,200,OK,PerformanceTesting 1-30,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808945,16,CreateHero,201,Created,PerformanceTesting 1-5,text,true,,282,231,64,64,http://localhost:3001/character,16,0,0
+1745606808945,17,GetById,200,OK,PerformanceTesting 1-56,text,true,,277,163,64,64,http://localhost:3001/character/43,17,0,0
+1745606808945,17,GetById,200,OK,PerformanceTesting 1-39,text,true,,277,163,64,64,http://localhost:3001/character/43,17,0,0
+1745606808946,16,GetById,200,OK,PerformanceTesting 1-17,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808946,16,GetById,200,OK,PerformanceTesting 1-43,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808946,16,GetById,200,OK,PerformanceTesting 1-27,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808946,17,GetById,200,OK,PerformanceTesting 1-26,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808943,14,CreateHero,201,Created,PerformanceTesting 1-50,text,true,,282,231,64,64,http://localhost:3001/character,14,0,0
+1745606808947,16,GetById,200,OK,PerformanceTesting 1-9,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808947,16,GetById,200,OK,PerformanceTesting 1-16,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808947,16,GetById,200,OK,PerformanceTesting 1-25,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808947,16,GetById,200,OK,PerformanceTesting 1-1,text,true,,277,163,64,64,http://localhost:3001/character/43,16,0,0
+1745606808948,15,GetById,200,OK,PerformanceTesting 1-3,text,true,,277,163,64,64,http://localhost:3001/character/43,15,0,0
+1745606808942,21,CreateHero,201,Created,PerformanceTesting 1-32,text,true,,282,231,64,64,http://localhost:3001/character,20,0,0
+1745606808948,15,GetById,200,OK,PerformanceTesting 1-41,text,true,,277,163,64,64,http://localhost:3001/character/43,15,0,0
+1745606808959,5,CreateHero,201,Created,PerformanceTesting 1-44,text,true,,282,231,64,64,http://localhost:3001/character,4,0,0
+1745606808960,4,CreateHero,201,Created,PerformanceTesting 1-20,text,true,,282,231,64,64,http://localhost:3001/character,4,0,0
+1745606808960,4,CreateHero,201,Created,PerformanceTesting 1-48,text,true,,282,231,64,64,http://localhost:3001/character,4,0,0
+1745606808960,4,CreateHero,201,Created,PerformanceTesting 1-46,text,true,,282,231,64,64,http://localhost:3001/character,4,0,0
+1745606808961,3,CreateHero,201,Created,PerformanceTesting 1-2,text,true,,282,231,64,64,http://localhost:3001/character,3,0,0
+1745606808943,14,CreateHero,201,Created,PerformanceTesting 1-28,text,true,,282,231,64,64,http://localhost:3001/character,14,0,0
+1745606808961,3,CreateHero,201,Created,PerformanceTesting 1-6,text,true,,282,231,64,64,http://localhost:3001/character,3,0,0
+1745606808942,15,CreateHero,201,Created,PerformanceTesting 1-60,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808948,17,GetById,200,OK,PerformanceTesting 1-14,text,true,,277,163,65,65,http://localhost:3001/character/43,17,0,0
+1745606808942,23,CreateHero,201,Created,PerformanceTesting 1-40,text,true,,282,231,65,65,http://localhost:3001/character,15,0,0
+1745606808962,3,CreateHero,201,Created,PerformanceTesting 1-30,text,true,,282,231,65,65,http://localhost:3001/character,3,0,0
+1745606808962,4,CreateHero,201,Created,PerformanceTesting 1-45,text,true,,282,231,65,65,http://localhost:3001/character,3,0,0
+1745606808962,4,CreateHero,201,Created,PerformanceTesting 1-56,text,true,,282,231,65,65,http://localhost:3001/character,4,0,0
+1745606808942,15,CreateHero,201,Created,PerformanceTesting 1-57,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808962,4,CreateHero,201,Created,PerformanceTesting 1-39,text,true,,282,231,65,65,http://localhost:3001/character,4,0,0
+1745606808963,3,CreateHero,201,Created,PerformanceTesting 1-9,text,true,,282,231,65,65,http://localhost:3001/character,3,0,0
+1745606808944,22,All characters,200,OK,PerformanceTesting 1-63,text,true,,4023,161,65,65,http://localhost:3001/characters,22,0,1
+1745606808963,3,CreateHero,201,Created,PerformanceTesting 1-27,text,true,,282,231,65,65,http://localhost:3001/character,3,0,0
+1745606808963,3,CreateHero,201,Created,PerformanceTesting 1-26,text,true,,282,231,65,65,http://localhost:3001/character,3,0,0
+1745606808963,4,CreateHero,201,Created,PerformanceTesting 1-43,text,true,,282,231,65,65,http://localhost:3001/character,4,0,0
+1745606808949,16,GetById,200,OK,PerformanceTesting 1-35,text,true,,277,163,65,65,http://localhost:3001/character/43,16,0,0
+1745606808941,15,CreateHero,201,Created,PerformanceTesting 1-55,text,true,,282,231,64,64,http://localhost:3001/character,15,0,0
+1745606808962,4,CreateHero,201,Created,PerformanceTesting 1-17,text,true,,282,231,65,65,http://localhost:3001/character,4,0,0
+1745606808963,4,CreateHero,201,Created,PerformanceTesting 1-16,text,true,,282,231,65,65,http://localhost:3001/character,4,0,0
+1745606808963,5,CreateHero,201,Created,PerformanceTesting 1-1,text,true,,283,231,65,65,http://localhost:3001/character,5,0,0
+1745606808941,17,CreateHero,201,Created,PerformanceTesting 1-59,text,true,,282,231,64,64,http://localhost:3001/character,17,0,0
+1745606808963,5,CreateHero,201,Created,PerformanceTesting 1-25,text,true,,282,231,65,65,http://localhost:3001/character,5,0,0
+1745606808964,5,CreateHero,201,Created,PerformanceTesting 1-3,text,true,,283,231,65,65,http://localhost:3001/character,5,0,0
+1745606808953,18,All characters,200,OK,PerformanceTesting 1-64,text,true,,4585,161,65,65,http://localhost:3001/characters,18,0,0
+1745606808965,7,CreateHero,201,Created,PerformanceTesting 1-41,text,true,,283,231,65,65,http://localhost:3001/character,7,0,0
+1745606808967,6,GetById,200,OK,PerformanceTesting 1-63,text,true,,277,163,66,66,http://localhost:3001/character/87,6,0,0
+1745606808967,6,CreateHero,201,Created,PerformanceTesting 1-14,text,true,,283,231,66,66,http://localhost:3001/character,6,0,0
+1745606808967,6,CreateHero,201,Created,PerformanceTesting 1-35,text,true,,283,231,66,66,http://localhost:3001/character,6,0,0
+1745606808972,1,GetById,200,OK,PerformanceTesting 1-64,text,true,,277,163,66,66,http://localhost:3001/character/43,1,0,0
+1745606808965,8,All characters,200,OK,PerformanceTesting 1-65,text,true,,4717,161,66,66,http://localhost:3001/characters,8,0,1
+1745606808973,1,CreateHero,201,Created,PerformanceTesting 1-63,text,true,,283,231,66,66,http://localhost:3001/character,1,0,0
+1745606808974,1,GetById,200,OK,PerformanceTesting 1-65,text,true,,277,163,66,66,http://localhost:3001/character/43,1,0,0
+1745606808973,2,All characters,200,OK,PerformanceTesting 1-66,text,true,,4761,161,66,66,http://localhost:3001/characters,2,0,1
+1745606808974,1,CreateHero,201,Created,PerformanceTesting 1-64,text,true,,283,231,66,66,http://localhost:3001/character,1,0,0
+1745606808976,2,CreateHero,201,Created,PerformanceTesting 1-65,text,true,,283,231,66,66,http://localhost:3001/character,2,0,0
+1745606808976,2,GetById,200,OK,PerformanceTesting 1-66,text,true,,277,163,66,66,http://localhost:3001/character/85,2,0,0
+1745606808978,1,CreateHero,201,Created,PerformanceTesting 1-66,text,true,,283,231,66,66,http://localhost:3001/character,1,0,0
+1745606808989,2,All characters,200,OK,PerformanceTesting 1-67,text,true,,4893,161,67,67,http://localhost:3001/characters,2,0,1
+1745606808995,2,ChangeHero,200,OK,PerformanceTesting 1-43,text,true,,277,233,68,68,http://localhost:3001/character/43,2,0,0
+1745606808995,2,ChangeHero,200,OK,PerformanceTesting 1-21,text,true,,277,233,68,68,http://localhost:3001/character/43,2,0,0
+1745606808995,2,ChangeHero,200,OK,PerformanceTesting 1-39,text,true,,277,233,68,68,http://localhost:3001/character/43,2,0,0
+1745606808996,1,ChangeHero,200,OK,PerformanceTesting 1-22,text,true,,277,233,68,68,http://localhost:3001/character/43,1,0,0
+1745606808996,1,ChangeHero,200,OK,PerformanceTesting 1-65,text,true,,277,233,68,68,http://localhost:3001/character/43,1,0,0
+1745606808997,1,ChangeHero,200,OK,PerformanceTesting 1-3,text,true,,277,233,68,68,http://localhost:3001/character/43,1,0,0
+1745606808998,1,ChangeHero,200,OK,PerformanceTesting 1-52,text,true,,277,233,68,68,http://localhost:3001/character/43,1,0,0
+1745606808999,1,ChangeHero,200,OK,PerformanceTesting 1-42,text,true,,277,233,68,68,http://localhost:3001/character/43,0,0,0
+1745606808999,1,ChangeHero,200,OK,PerformanceTesting 1-24,text,true,,277,233,68,68,http://localhost:3001/character/43,1,0,0
+1745606809000,1,ChangeHero,200,OK,PerformanceTesting 1-62,text,true,,277,233,68,68,http://localhost:3001/character/43,1,0,0
+1745606809001,2,ChangeHero,200,OK,PerformanceTesting 1-66,text,true,,277,233,68,68,http://localhost:3001/character/85,2,0,0
+1745606809001,2,ChangeHero,200,OK,PerformanceTesting 1-61,text,true,,277,233,69,69,http://localhost:3001/character/43,2,0,0
+1745606809003,1,ChangeHero,200,OK,PerformanceTesting 1-18,text,true,,277,233,69,69,http://localhost:3001/character/44,1,0,0
+1745606809005,1,ChangeHero,200,OK,PerformanceTesting 1-31,text,true,,277,233,69,69,http://localhost:3001/character/43,1,0,0
+1745606809006,1,ChangeHero,200,OK,PerformanceTesting 1-41,text,true,,277,233,69,69,http://localhost:3001/character/43,1,0,0
+1745606809008,1,ChangeHero,200,OK,PerformanceTesting 1-29,text,true,,277,233,69,69,http://localhost:3001/character/43,1,0,0
+1745606809010,16,ChangeHero,200,OK,PerformanceTesting 1-37,text,true,,277,233,70,70,http://localhost:3001/character/43,16,0,0
+1745606809009,17,All characters,200,OK,PerformanceTesting 1-68,text,true,,4893,161,70,70,http://localhost:3001/characters,17,0,0
+1745606809009,18,ChangeHero,200,OK,PerformanceTesting 1-28,text,true,,277,233,71,71,http://localhost:3001/character/43,18,0,0
+1745606809009,19,ChangeHero,200,OK,PerformanceTesting 1-26,text,true,,277,233,71,71,http://localhost:3001/character/43,19,0,0
+1745606809008,20,ChangeHero,200,OK,PerformanceTesting 1-35,text,true,,277,233,71,71,http://localhost:3001/character/43,2,0,0
+1745606809027,1,GetById,200,OK,PerformanceTesting 1-68,text,true,,277,163,71,71,http://localhost:3001/character/43,1,0,0
+1745606809027,2,ChangeHero,200,OK,PerformanceTesting 1-6,text,true,,277,233,71,71,http://localhost:3001/character/43,2,0,0
+1745606809029,1,ChangeHero,200,OK,PerformanceTesting 1-48,text,true,,277,233,71,71,http://localhost:3001/character/43,1,0,0
+1745606809027,5,All characters,200,OK,PerformanceTesting 1-70,text,true,,4893,161,72,72,http://localhost:3001/characters,5,0,1
+1745606809031,1,ChangeHero,200,OK,PerformanceTesting 1-5,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809031,1,ChangeHero,200,OK,PerformanceTesting 1-23,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809032,1,ChangeHero,200,OK,PerformanceTesting 1-38,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809029,2,ChangeHero,200,OK,PerformanceTesting 1-20,text,true,,277,233,71,71,http://localhost:3001/character/43,2,0,0
+1745606809033,1,ChangeHero,200,OK,PerformanceTesting 1-15,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809030,1,ChangeHero,200,OK,PerformanceTesting 1-64,text,true,,277,233,71,71,http://localhost:3001/character/43,1,0,0
+1745606809032,2,ChangeHero,200,OK,PerformanceTesting 1-54,text,true,,277,233,72,72,http://localhost:3001/character/43,2,0,0
+1745606809032,1,All characters,200,OK,PerformanceTesting 1-72,text,true,,4893,161,72,72,http://localhost:3001/characters,1,0,0
+1745606809033,2,ChangeHero,200,OK,PerformanceTesting 1-13,text,true,,277,233,72,72,http://localhost:3001/character/44,2,0,0
+1745606809034,2,DeleteHero,200,OK,PerformanceTesting 1-23,text,true,,293,185,72,72,http://localhost:3001/character/43,2,0,0
+1745606809035,1,GetById,200,OK,PerformanceTesting 1-70,text,true,,277,163,72,72,http://localhost:3001/character/50,1,0,0
+1745606809035,1,GetById,200,OK,PerformanceTesting 1-72,text,true,,277,163,72,72,http://localhost:3001/character/55,1,0,0
+1745606809035,1,ChangeHero,200,OK,PerformanceTesting 1-51,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809036,0,ChangeHero,200,OK,PerformanceTesting 1-8,text,true,,277,233,72,72,http://localhost:3001/character/43,0,0,0
+1745606809036,0,ChangeHero,200,OK,PerformanceTesting 1-44,text,true,,277,233,72,72,http://localhost:3001/character/43,0,0,0
+1745606809036,1,ChangeHero,200,OK,PerformanceTesting 1-2,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809037,1,ChangeHero,200,OK,PerformanceTesting 1-50,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809038,1,CreateHero,201,Created,PerformanceTesting 1-68,text,true,,283,231,72,72,http://localhost:3001/character,1,0,0
+1745606809038,1,DeleteHero,200,OK,PerformanceTesting 1-26,text,true,,293,185,72,72,http://localhost:3001/character/43,1,0,0
+1745606809039,1,ChangeHero,200,OK,PerformanceTesting 1-30,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809039,1,DeleteHero,200,OK,PerformanceTesting 1-37,text,true,,293,185,72,72,http://localhost:3001/character/43,1,0,0
+1745606809040,0,ChangeHero,200,OK,PerformanceTesting 1-57,text,true,,277,233,72,72,http://localhost:3001/character/43,0,0,0
+1745606809040,1,ChangeHero,200,OK,PerformanceTesting 1-56,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809039,1,All characters,200,OK,PerformanceTesting 1-71,text,true,,4808,161,72,72,http://localhost:3001/characters,1,0,1
+1745606809041,1,ChangeHero,200,OK,PerformanceTesting 1-9,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809041,2,ChangeHero,200,OK,PerformanceTesting 1-58,text,true,,277,233,72,72,http://localhost:3001/character/43,2,0,0
+1745606809042,1,ChangeHero,200,OK,PerformanceTesting 1-40,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809042,1,ChangeHero,200,OK,PerformanceTesting 1-12,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809005,39,DeleteHero,200,OK,PerformanceTesting 1-65,text,true,,293,185,72,72,http://localhost:3001/character/43,39,0,0
+1745606809043,2,ChangeHero,200,OK,PerformanceTesting 1-25,text,true,,277,233,72,72,http://localhost:3001/character/43,2,0,0
+1745606809044,1,ChangeHero,200,OK,PerformanceTesting 1-47,text,true,,277,233,72,72,http://localhost:3001/character/43,1,0,0
+1745606809044,2,ChangeHero,200,OK,PerformanceTesting 1-17,text,true,,277,233,72,72,http://localhost:3001/character/43,2,0,0
+1745606809044,3,ChangeHero,200,OK,PerformanceTesting 1-63,text,true,,277,233,72,72,http://localhost:3001/character/87,3,0,0
+1745606809045,3,DeleteHero,200,OK,PerformanceTesting 1-58,text,true,,293,185,72,72,http://localhost:3001/character/43,3,0,0
+1745606809045,3,DeleteHero,200,OK,PerformanceTesting 1-21,text,true,,293,185,72,72,http://localhost:3001/character/43,3,0,0
+1745606809046,2,DeleteHero,200,OK,PerformanceTesting 1-18,text,true,,293,185,71,71,http://localhost:3001/character/44,2,0,0
+1745606809046,2,ChangeHero,200,OK,PerformanceTesting 1-19,text,true,,277,233,71,71,http://localhost:3001/character/43,2,0,0
+1745606809046,2,ChangeHero,200,OK,PerformanceTesting 1-11,text,true,,277,233,71,71,http://localhost:3001/character/43,2,0,0
+1745606809047,1,GetById,200,OK,PerformanceTesting 1-67,text,true,,277,163,70,70,http://localhost:3001/character/74,1,0,0
+1745606809047,2,ChangeHero,200,OK,PerformanceTesting 1-33,text,true,,277,233,69,69,http://localhost:3001/character/43,2,0,0
+1745606809049,1,CreateHero,201,Created,PerformanceTesting 1-67,text,true,,283,231,69,69,http://localhost:3001/character,1,0,0
+1745606809049,1,DeleteHero,200,OK,PerformanceTesting 1-3,text,true,,293,185,69,69,http://localhost:3001/character/43,1,0,0
+1745606809048,2,ChangeHero,200,OK,PerformanceTesting 1-34,text,true,,277,233,69,69,http://localhost:3001/character/43,2,0,0
+1745606809049,2,ChangeHero,200,OK,PerformanceTesting 1-14,text,true,,277,233,68,68,http://localhost:3001/character/43,2,0,0
+1745606809050,1,DeleteHero,200,OK,PerformanceTesting 1-61,text,true,,293,185,68,68,http://localhost:3001/character/43,1,0,0
+1745606809051,1,DeleteHero,200,OK,PerformanceTesting 1-24,text,true,,293,185,67,67,http://localhost:3001/character/43,1,0,0
+1745606809051,1,All characters,200,OK,PerformanceTesting 1-69,text,true,,4594,161,67,67,http://localhost:3001/characters,1,0,0
+1745606809052,1,ChangeHero,200,OK,PerformanceTesting 1-49,text,true,,277,233,67,67,http://localhost:3001/character/43,1,0,0
+1745606809052,1,ChangeHero,200,OK,PerformanceTesting 1-53,text,true,,277,233,67,67,http://localhost:3001/character/43,1,0,0
+1745606809053,1,DeleteHero,200,OK,PerformanceTesting 1-42,text,true,,293,185,67,67,http://localhost:3001/character/43,1,0,0
+1745606809053,1,DeleteHero,200,OK,PerformanceTesting 1-14,text,true,,293,185,66,66,http://localhost:3001/character/43,1,0,0
+1745606809054,2,DeleteHero,200,OK,PerformanceTesting 1-62,text,true,,293,185,65,65,http://localhost:3001/character/43,1,0,0
+1745606809053,3,All characters,200,OK,PerformanceTesting 1-74,text,true,,4422,161,65,65,http://localhost:3001/characters,3,0,1
+1745606809055,1,ChangeHero,200,OK,PerformanceTesting 1-4,text,true,,277,233,64,64,http://localhost:3001/character/43,1,0,0
+1745606809056,1,ChangeHero,200,OK,PerformanceTesting 1-10,text,true,,277,233,64,64,http://localhost:3001/character/43,1,0,0
+1745606809056,1,DeleteHero,200,OK,PerformanceTesting 1-33,text,true,,293,185,64,64,http://localhost:3001/character/43,1,0,0
+1745606809057,1,DeleteHero,200,OK,PerformanceTesting 1-11,text,true,,293,185,64,64,http://localhost:3001/character/43,1,0,0
+1745606809057,0,GetById,200,OK,PerformanceTesting 1-74,text,true,,277,163,64,64,http://localhost:3001/character/88,0,0,0
+1745606809057,1,DeleteHero,200,OK,PerformanceTesting 1-22,text,true,,293,185,62,62,http://localhost:3001/character/43,1,0,0
+1745606809058,2,ChangeHero,200,OK,PerformanceTesting 1-1,text,true,,277,233,61,61,http://localhost:3001/character/43,2,0,0
+1745606809058,2,DeleteHero,200,OK,PerformanceTesting 1-43,text,true,,293,185,61,61,http://localhost:3001/character/43,2,0,0
+1745606809060,1,DeleteHero,200,OK,PerformanceTesting 1-1,text,true,,293,185,60,60,http://localhost:3001/character/43,1,0,0
+1745606809059,2,ChangeHero,200,OK,PerformanceTesting 1-59,text,true,,277,233,60,60,http://localhost:3001/character/43,2,0,0
+1745606809060,1,ChangeHero,200,OK,PerformanceTesting 1-16,text,true,,277,233,60,60,http://localhost:3001/character/43,1,0,0
+1745606809059,2,All characters,200,OK,PerformanceTesting 1-73,text,true,,4206,161,60,60,http://localhost:3001/characters,2,0,1
+1745606809061,1,DeleteHero,200,OK,PerformanceTesting 1-9,text,true,,293,185,59,59,http://localhost:3001/character/43,1,0,0
+1745606809062,1,DeleteHero,200,OK,PerformanceTesting 1-41,text,true,,293,185,58,58,http://localhost:3001/character/43,1,0,0
+1745606809062,2,GetById,200,OK,PerformanceTesting 1-73,text,true,,277,163,57,57,http://localhost:3001/character/43,2,0,0
+1745606809062,3,DeleteHero,200,OK,PerformanceTesting 1-59,text,true,,293,185,56,56,http://localhost:3001/character/43,3,0,0
+1745606809063,2,GetById,200,OK,PerformanceTesting 1-71,text,true,,277,163,55,55,http://localhost:3001/character/43,2,0,0
+1745606809064,2,ChangeHero,200,OK,PerformanceTesting 1-46,text,true,,277,233,55,55,http://localhost:3001/character/43,2,0,0
+1745606809063,3,All characters,200,OK,PerformanceTesting 1-75,text,true,,4077,161,55,55,http://localhost:3001/characters,3,0,1
+1745606809065,2,CreateHero,201,Created,PerformanceTesting 1-73,text,true,,282,231,55,55,http://localhost:3001/character,2,0,0
+1745606809065,3,DeleteHero,200,OK,PerformanceTesting 1-28,text,true,,293,185,55,55,http://localhost:3001/character/43,3,0,0
+1745606809066,2,ChangeHero,200,OK,PerformanceTesting 1-32,text,true,,277,233,55,55,http://localhost:3001/character/43,2,0,0
+1745606809065,3,DeleteHero,200,OK,PerformanceTesting 1-29,text,true,,293,185,55,55,http://localhost:3001/character/43,3,0,0
+1745606809066,3,ChangeHero,200,OK,PerformanceTesting 1-45,text,true,,277,233,53,53,http://localhost:3001/character/43,3,0,0
+1745606809066,3,ChangeHero,200,OK,PerformanceTesting 1-60,text,true,,277,233,53,53,http://localhost:3001/character/43,3,0,0
+1745606809068,1,DeleteHero,200,OK,PerformanceTesting 1-35,text,true,,293,185,53,53,http://localhost:3001/character/43,1,0,0
+1745606809067,2,DeleteHero,200,OK,PerformanceTesting 1-6,text,true,,293,185,52,52,http://localhost:3001/character/43,2,0,0
+1745606809069,1,DeleteHero,200,OK,PerformanceTesting 1-2,text,true,,293,185,50,50,http://localhost:3001/character/43,1,0,0
+1745606809069,1,DeleteHero,200,OK,PerformanceTesting 1-45,text,true,,293,185,49,49,http://localhost:3001/character/43,1,0,0
+1745606809069,2,GetById,200,OK,PerformanceTesting 1-75,text,true,,277,163,49,49,http://localhost:3001/character/75,2,0,0
+1745606809070,1,CreateHero,201,Created,PerformanceTesting 1-72,text,true,,282,231,48,48,http://localhost:3001/character,1,0,0
+1745606809070,2,CreateHero,201,Created,PerformanceTesting 1-70,text,true,,282,231,48,48,http://localhost:3001/character,2,0,0
+1745606809071,1,ChangeHero,200,OK,PerformanceTesting 1-7,text,true,,277,233,48,48,http://localhost:3001/character/43,1,0,0
+1745606809071,2,DeleteHero,200,OK,PerformanceTesting 1-5,text,true,,293,185,49,49,http://localhost:3001/character/43,2,0,0
+1745606809072,1,ChangeHero,200,OK,PerformanceTesting 1-72,text,true,,277,233,49,49,http://localhost:3001/character/55,1,0,0
+1745606809073,2,DeleteHero,200,OK,PerformanceTesting 1-20,text,true,,293,185,48,48,http://localhost:3001/character/43,2,0,0
+1745606809073,2,DeleteHero,200,OK,PerformanceTesting 1-64,text,true,,293,185,47,47,http://localhost:3001/character/43,2,0,0
+1745606809074,1,CreateHero,201,Created,PerformanceTesting 1-75,text,true,,282,231,46,46,http://localhost:3001/character,1,0,0
+1745606809074,2,DeleteHero,200,OK,PerformanceTesting 1-54,text,true,,293,185,46,46,http://localhost:3001/character/43,2,0,0
+1745606809076,5,DeleteHero,200,OK,PerformanceTesting 1-8,text,true,,293,185,46,46,http://localhost:3001/character/43,5,0,0
+1745606809075,6,DeleteHero,200,OK,PerformanceTesting 1-51,text,true,,293,185,46,46,http://localhost:3001/character/43,6,0,0
+1745606809074,7,ChangeHero,200,OK,PerformanceTesting 1-70,text,true,,277,233,46,46,http://localhost:3001/character/50,7,0,0
+1745606809076,6,DeleteHero,200,OK,PerformanceTesting 1-48,text,true,,293,185,44,44,http://localhost:3001/character/43,6,0,0
+1745606809077,5,CreateHero,201,Created,PerformanceTesting 1-71,text,true,,282,231,44,44,http://localhost:3001/character,5,0,0
+1745606809077,6,ChangeHero,200,OK,PerformanceTesting 1-68,text,true,,277,233,43,43,http://localhost:3001/character/43,6,0,0
+1745606809078,5,DeleteHero,200,OK,PerformanceTesting 1-57,text,true,,293,185,43,43,http://localhost:3001/character/43,5,0,0
+1745606809079,4,DeleteHero,200,OK,PerformanceTesting 1-16,text,true,,293,185,42,42,http://localhost:3001/character/43,4,0,0
+1745606809081,5,DeleteHero,200,OK,PerformanceTesting 1-31,text,true,,293,185,41,41,http://localhost:3001/character/43,5,0,0
+1745606809081,6,ChangeHero,200,OK,PerformanceTesting 1-55,text,true,,277,233,40,40,http://localhost:3001/character/43,6,0,0
+1745606809080,7,ChangeHero,200,OK,PerformanceTesting 1-27,text,true,,277,233,40,40,http://localhost:3001/character/43,7,0,0
+1745606809082,5,DeleteHero,200,OK,PerformanceTesting 1-70,text,true,,293,185,40,40,http://localhost:3001/character/50,5,0,0
+1745606809081,6,DeleteHero,200,OK,PerformanceTesting 1-40,text,true,,293,185,40,40,http://localhost:3001/character/43,6,0,0
+1745606809082,6,CreateHero,201,Created,PerformanceTesting 1-74,text,true,,282,231,38,38,http://localhost:3001/character,6,0,0
+1745606809084,4,DeleteHero,200,OK,PerformanceTesting 1-25,text,true,,293,185,38,38,http://localhost:3001/character/43,4,0,0
+1745606809084,4,DeleteHero,200,OK,PerformanceTesting 1-39,text,true,,293,185,38,38,http://localhost:3001/character/43,4,0,0
+1745606809085,3,GetById,200,OK,PerformanceTesting 1-69,text,true,,277,163,36,36,http://localhost:3001/character/43,3,0,0
+1745606809086,2,ChangeHero,200,OK,PerformanceTesting 1-67,text,true,,277,233,36,36,http://localhost:3001/character/74,2,0,0
+1745606809086,2,DeleteHero,200,OK,PerformanceTesting 1-66,text,true,,293,185,36,36,http://localhost:3001/character/85,2,0,0
+1745606809087,2,DeleteHero,200,OK,PerformanceTesting 1-52,text,true,,293,185,36,36,http://localhost:3001/character/43,2,0,0
+1745606809087,2,DeleteHero,200,OK,PerformanceTesting 1-63,text,true,,293,185,36,36,http://localhost:3001/character/87,2,0,0
+1745606809082,7,All characters,200,OK,PerformanceTesting 1-77,text,true,,3389,161,36,36,http://localhost:3001/characters,7,0,1
+1745606809085,4,DeleteHero,200,OK,PerformanceTesting 1-34,text,true,,293,185,33,33,http://localhost:3001/character/43,3,0,0
+1745606809088,1,DeleteHero,404,Not Found,PerformanceTesting 1-19,text,false,,273,185,32,32,http://localhost:3001/character/43,1,0,0
+1745606809088,1,DeleteHero,404,Not Found,PerformanceTesting 1-17,text,false,,273,185,31,31,http://localhost:3001/character/43,1,0,0
+1745606809089,1,ChangeHero,404,Not Found,PerformanceTesting 1-36,text,false,,273,233,31,31,http://localhost:3001/character/43,1,0,0
+1745606809089,1,DeleteHero,404,Not Found,PerformanceTesting 1-47,text,false,,273,185,30,30,http://localhost:3001/character/43,1,0,0
+1745606809090,1,DeleteHero,404,Not Found,PerformanceTesting 1-10,text,false,,273,185,29,29,http://localhost:3001/character/43,1,0,0
+1745606809091,1,DeleteHero,404,Not Found,PerformanceTesting 1-68,text,false,,273,185,28,28,http://localhost:3001/character/43,1,0,0
+1745606809091,1,DeleteHero,404,Not Found,PerformanceTesting 1-30,text,false,,273,185,27,27,http://localhost:3001/character/43,1,0,0
+1745606809092,1,DeleteHero,404,Not Found,PerformanceTesting 1-46,text,false,,273,185,26,26,http://localhost:3001/character/43,1,0,0
+1745606809092,2,ChangeHero,200,OK,PerformanceTesting 1-75,text,true,,277,233,25,25,http://localhost:3001/character/75,1,0,0
+1745606809092,2,ChangeHero,404,Not Found,PerformanceTesting 1-73,text,false,,273,233,25,25,http://localhost:3001/character/43,2,0,0
+1745606809093,1,DeleteHero,404,Not Found,PerformanceTesting 1-44,text,false,,273,185,25,25,http://localhost:3001/character/43,1,0,0
+1745606809093,1,DeleteHero,404,Not Found,PerformanceTesting 1-32,text,false,,273,185,25,25,http://localhost:3001/character/43,1,0,0
+1745606809094,1,DeleteHero,404,Not Found,PerformanceTesting 1-7,text,false,,273,185,23,23,http://localhost:3001/character/43,1,0,0
+1745606809095,1,DeleteHero,404,Not Found,PerformanceTesting 1-38,text,false,,273,185,23,23,http://localhost:3001/character/43,1,0,0
+1745606809096,1,DeleteHero,404,Not Found,PerformanceTesting 1-60,text,false,,273,185,22,22,http://localhost:3001/character/43,1,0,0
+1745606809096,1,All characters,200,OK,PerformanceTesting 1-76,text,true,,3303,161,22,22,http://localhost:3001/characters,1,0,0
+1745606809097,1,DeleteHero,404,Not Found,PerformanceTesting 1-56,text,false,,273,185,21,21,http://localhost:3001/character/43,1,0,0
+1745606809097,1,DeleteHero,404,Not Found,PerformanceTesting 1-12,text,false,,273,185,21,21,http://localhost:3001/character/43,1,0,0
+1745606809099,1,CreateHero,201,Created,PerformanceTesting 1-69,text,true,,282,231,19,19,http://localhost:3001/character,1,0,0
+1745606809100,1,DeleteHero,404,Not Found,PerformanceTesting 1-49,text,false,,273,185,19,19,http://localhost:3001/character/43,1,0,0
+1745606809100,1,DeleteHero,404,Not Found,PerformanceTesting 1-55,text,false,,273,185,19,19,http://localhost:3001/character/43,1,0,0
+1745606809100,1,GetById,200,OK,PerformanceTesting 1-77,text,true,,277,163,19,19,http://localhost:3001/character/78,1,0,0
+1745606809101,1,ChangeHero,404,Not Found,PerformanceTesting 1-71,text,false,,273,233,17,17,http://localhost:3001/character/43,1,0,0
+1745606809101,1,GetById,200,OK,PerformanceTesting 1-76,text,true,,277,163,17,17,http://localhost:3001/character/67,1,0,0
+1745606809102,1,DeleteHero,200,OK,PerformanceTesting 1-13,text,true,,293,185,17,17,http://localhost:3001/character/44,1,0,0
+1745606809102,1,DeleteHero,404,Not Found,PerformanceTesting 1-73,text,false,,273,185,17,17,http://localhost:3001/character/43,1,0,0
+1745606809101,2,CreateHero,201,Created,PerformanceTesting 1-77,text,true,,282,231,15,15,http://localhost:3001/character,2,0,0
+1745606809102,1,All characters,200,OK,PerformanceTesting 1-78,text,true,,3303,161,15,15,http://localhost:3001/characters,1,0,0
+1745606809103,1,DeleteHero,200,OK,PerformanceTesting 1-72,text,true,,293,185,15,15,http://localhost:3001/character/55,1,0,0
+1745606809103,2,CreateHero,201,Created,PerformanceTesting 1-76,text,true,,282,231,14,14,http://localhost:3001/character,2,0,0
+1745606809103,3,DeleteHero,404,Not Found,PerformanceTesting 1-15,text,false,,273,185,14,14,http://localhost:3001/character/43,3,0,0
+1745606809104,2,DeleteHero,200,OK,PerformanceTesting 1-75,text,true,,293,185,14,14,http://localhost:3001/character/75,2,0,0
+1745606809104,2,DeleteHero,404,Not Found,PerformanceTesting 1-71,text,false,,273,185,13,13,http://localhost:3001/character/43,2,0,0
+1745606809104,2,DeleteHero,404,Not Found,PerformanceTesting 1-50,text,false,,273,185,13,13,http://localhost:3001/character/43,2,0,0
+1745606809104,3,DeleteHero,404,Not Found,PerformanceTesting 1-4,text,false,,273,185,10,10,http://localhost:3001/character/43,3,0,0
+1745606809105,2,DeleteHero,404,Not Found,PerformanceTesting 1-36,text,false,,273,185,10,10,http://localhost:3001/character/43,2,0,0
+1745606809105,2,DeleteHero,200,OK,PerformanceTesting 1-67,text,true,,293,185,10,10,http://localhost:3001/character/74,2,0,0
+1745606809106,1,DeleteHero,404,Not Found,PerformanceTesting 1-53,text,false,,273,185,10,10,http://localhost:3001/character/43,1,0,0
+1745606809107,1,DeleteHero,404,Not Found,PerformanceTesting 1-27,text,false,,273,185,7,7,http://localhost:3001/character/43,1,0,0
+1745606809107,2,ChangeHero,200,OK,PerformanceTesting 1-74,text,true,,277,233,7,7,http://localhost:3001/character/88,2,0,0
+1745606809108,2,GetById,200,OK,PerformanceTesting 1-78,text,true,,277,163,6,6,http://localhost:3001/character/57,2,0,0
+1745606809108,2,ChangeHero,404,Not Found,PerformanceTesting 1-69,text,false,,273,233,6,6,http://localhost:3001/character/43,2,0,0
+1745606809109,2,ChangeHero,200,OK,PerformanceTesting 1-77,text,true,,277,233,6,6,http://localhost:3001/character/78,2,0,0
+1745606809110,2,ChangeHero,200,OK,PerformanceTesting 1-76,text,true,,277,233,6,6,http://localhost:3001/character/67,2,0,0
+1745606809109,3,All characters,200,OK,PerformanceTesting 1-79,text,true,,3260,161,6,6,http://localhost:3001/characters,3,0,1
+1745606809112,1,DeleteHero,200,OK,PerformanceTesting 1-74,text,true,,293,185,7,7,http://localhost:3001/character/88,1,0,0
+1745606809113,0,CreateHero,201,Created,PerformanceTesting 1-78,text,true,,282,231,6,6,http://localhost:3001/character,0,0,0
+1745606809113,1,DeleteHero,200,OK,PerformanceTesting 1-77,text,true,,293,185,6,6,http://localhost:3001/character/78,1,0,0
+1745606809114,1,DeleteHero,404,Not Found,PerformanceTesting 1-69,text,false,,273,185,5,5,http://localhost:3001/character/43,1,0,0
+1745606809114,1,DeleteHero,200,OK,PerformanceTesting 1-76,text,true,,293,185,5,5,http://localhost:3001/character/67,1,0,0
+1745606809114,1,GetById,200,OK,PerformanceTesting 1-79,text,true,,277,163,5,5,http://localhost:3001/character/59,1,0,0
+1745606809115,1,CreateHero,201,Created,PerformanceTesting 1-79,text,true,,282,231,3,3,http://localhost:3001/character,1,0,0
+1745606809115,1,ChangeHero,200,OK,PerformanceTesting 1-78,text,true,,277,233,3,3,http://localhost:3001/character/57,1,0,0
+1745606809114,2,All characters,200,OK,PerformanceTesting 1-80,text,true,,3217,161,3,3,http://localhost:3001/characters,2,0,0
+1745606809117,0,ChangeHero,200,OK,PerformanceTesting 1-79,text,true,,277,233,3,3,http://localhost:3001/character/59,0,0,0
+1745606809117,0,GetById,200,OK,PerformanceTesting 1-80,text,true,,277,163,3,3,http://localhost:3001/character/57,0,0,0
+1745606809117,1,DeleteHero,200,OK,PerformanceTesting 1-78,text,true,,293,185,3,3,http://localhost:3001/character/57,1,0,0
+1745606809118,0,CreateHero,201,Created,PerformanceTesting 1-80,text,true,,282,231,2,2,http://localhost:3001/character,0,0,0
+1745606809118,0,DeleteHero,200,OK,PerformanceTesting 1-79,text,true,,293,185,2,2,http://localhost:3001/character/59,0,0,0
+1745606809120,0,ChangeHero,404,Not Found,PerformanceTesting 1-80,text,false,,273,233,1,1,http://localhost:3001/character/57,0,0,0
+1745606809121,1,DeleteHero,404,Not Found,PerformanceTesting 1-80,text,false,,273,185,1,1,http://localhost:3001/character/57,1,0,0
+1745606809127,1,All characters,200,OK,PerformanceTesting 1-81,text,true,,3174,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809128,1,GetById,200,OK,PerformanceTesting 1-81,text,true,,277,163,1,1,http://localhost:3001/character/83,1,0,0
+1745606809129,0,CreateHero,201,Created,PerformanceTesting 1-81,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809130,0,ChangeHero,200,OK,PerformanceTesting 1-81,text,true,,277,233,1,1,http://localhost:3001/character/83,0,0,0
+1745606809131,0,DeleteHero,200,OK,PerformanceTesting 1-81,text,true,,293,185,1,1,http://localhost:3001/character/83,0,0,0
+1745606809132,1,All characters,200,OK,PerformanceTesting 1-82,text,true,,3174,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809133,1,GetById,200,OK,PerformanceTesting 1-82,text,true,,277,163,1,1,http://localhost:3001/character/65,1,0,0
+1745606809134,0,CreateHero,201,Created,PerformanceTesting 1-82,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809135,1,ChangeHero,200,OK,PerformanceTesting 1-82,text,true,,277,233,1,1,http://localhost:3001/character/65,1,0,0
+1745606809137,0,DeleteHero,200,OK,PerformanceTesting 1-82,text,true,,293,185,1,1,http://localhost:3001/character/65,0,0,0
+1745606809146,0,All characters,200,OK,PerformanceTesting 1-83,text,true,,3174,161,1,1,http://localhost:3001/characters,0,0,0
+1745606809147,1,GetById,200,OK,PerformanceTesting 1-83,text,true,,277,163,1,1,http://localhost:3001/character/81,1,0,0
+1745606809148,0,CreateHero,201,Created,PerformanceTesting 1-83,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809149,0,ChangeHero,200,OK,PerformanceTesting 1-83,text,true,,277,233,1,1,http://localhost:3001/character/81,0,0,0
+1745606809150,0,DeleteHero,200,OK,PerformanceTesting 1-83,text,true,,293,185,1,1,http://localhost:3001/character/81,0,0,0
+1745606809151,0,All characters,200,OK,PerformanceTesting 1-84,text,true,,3174,161,1,1,http://localhost:3001/characters,0,0,0
+1745606809152,0,GetById,200,OK,PerformanceTesting 1-84,text,true,,278,164,1,1,http://localhost:3001/character/103,0,0,0
+1745606809153,0,CreateHero,201,Created,PerformanceTesting 1-84,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809154,0,ChangeHero,200,OK,PerformanceTesting 1-84,text,true,,278,234,1,1,http://localhost:3001/character/103,0,0,0
+1745606809155,0,DeleteHero,200,OK,PerformanceTesting 1-84,text,true,,293,186,1,1,http://localhost:3001/character/103,0,0,0
+1745606809166,1,All characters,200,OK,PerformanceTesting 1-85,text,true,,3173,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809167,1,GetById,200,OK,PerformanceTesting 1-85,text,true,,277,163,1,1,http://localhost:3001/character/71,1,0,0
+1745606809168,0,CreateHero,201,Created,PerformanceTesting 1-85,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809169,1,ChangeHero,200,OK,PerformanceTesting 1-85,text,true,,277,233,1,1,http://localhost:3001/character/71,1,0,0
+1745606809170,1,DeleteHero,200,OK,PerformanceTesting 1-85,text,true,,293,185,1,1,http://localhost:3001/character/71,1,0,0
+1745606809173,1,All characters,200,OK,PerformanceTesting 1-86,text,true,,3173,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809175,0,GetById,200,OK,PerformanceTesting 1-86,text,true,,278,164,1,1,http://localhost:3001/character/101,0,0,0
+1745606809175,0,CreateHero,201,Created,PerformanceTesting 1-86,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809176,1,ChangeHero,200,OK,PerformanceTesting 1-86,text,true,,278,234,1,1,http://localhost:3001/character/101,1,0,0
+1745606809177,1,DeleteHero,200,OK,PerformanceTesting 1-86,text,true,,293,186,1,1,http://localhost:3001/character/101,1,0,0
+1745606809181,1,All characters,200,OK,PerformanceTesting 1-87,text,true,,3172,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809183,1,GetById,200,OK,PerformanceTesting 1-87,text,true,,278,164,1,1,http://localhost:3001/character/104,1,0,0
+1745606809185,1,CreateHero,201,Created,PerformanceTesting 1-87,text,true,,282,231,1,1,http://localhost:3001/character,1,0,0
+1745606809187,0,ChangeHero,200,OK,PerformanceTesting 1-87,text,true,,278,234,1,1,http://localhost:3001/character/104,0,0,0
+1745606809188,0,DeleteHero,200,OK,PerformanceTesting 1-87,text,true,,293,186,1,1,http://localhost:3001/character/104,0,0,0
+1745606809196,1,All characters,200,OK,PerformanceTesting 1-88,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809202,1,GetById,200,OK,PerformanceTesting 1-88,text,true,,277,163,1,1,http://localhost:3001/character/61,1,0,0
+1745606809203,1,CreateHero,201,Created,PerformanceTesting 1-88,text,true,,282,231,2,2,http://localhost:3001/character,1,0,0
+1745606809204,1,All characters,200,OK,PerformanceTesting 1-89,text,true,,3214,161,2,2,http://localhost:3001/characters,1,0,0
+1745606809205,1,ChangeHero,200,OK,PerformanceTesting 1-88,text,true,,277,233,2,2,http://localhost:3001/character/61,1,0,0
+1745606809207,1,GetById,200,OK,PerformanceTesting 1-89,text,true,,277,163,2,2,http://localhost:3001/character/80,0,0,0
+1745606809207,1,DeleteHero,200,OK,PerformanceTesting 1-88,text,true,,293,185,2,2,http://localhost:3001/character/61,1,0,0
+1745606809208,1,CreateHero,201,Created,PerformanceTesting 1-89,text,true,,282,231,1,1,http://localhost:3001/character,1,0,0
+1745606809209,1,ChangeHero,200,OK,PerformanceTesting 1-89,text,true,,277,233,1,1,http://localhost:3001/character/80,1,0,0
+1745606809210,1,DeleteHero,200,OK,PerformanceTesting 1-89,text,true,,293,185,1,1,http://localhost:3001/character/80,1,0,0
+1745606809212,1,All characters,200,OK,PerformanceTesting 1-90,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809213,0,GetById,200,OK,PerformanceTesting 1-90,text,true,,277,163,1,1,http://localhost:3001/character/69,0,0,0
+1745606809213,1,CreateHero,201,Created,PerformanceTesting 1-90,text,true,,282,231,1,1,http://localhost:3001/character,1,0,0
+1745606809214,1,ChangeHero,200,OK,PerformanceTesting 1-90,text,true,,277,233,1,1,http://localhost:3001/character/69,1,0,0
+1745606809215,1,DeleteHero,200,OK,PerformanceTesting 1-90,text,true,,293,185,1,1,http://localhost:3001/character/69,1,0,0
+1745606809226,1,All characters,200,OK,PerformanceTesting 1-91,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809227,1,GetById,200,OK,PerformanceTesting 1-91,text,true,,277,163,1,1,http://localhost:3001/character/95,1,0,0
+1745606809228,0,CreateHero,201,Created,PerformanceTesting 1-91,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809229,0,ChangeHero,200,OK,PerformanceTesting 1-91,text,true,,277,233,1,1,http://localhost:3001/character/95,0,0,0
+1745606809230,0,DeleteHero,200,OK,PerformanceTesting 1-91,text,true,,293,185,1,1,http://localhost:3001/character/95,0,0,0
+1745606809235,1,All characters,200,OK,PerformanceTesting 1-92,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809237,0,GetById,200,OK,PerformanceTesting 1-92,text,true,,277,163,1,1,http://localhost:3001/character/69,0,0,0
+1745606809237,1,CreateHero,201,Created,PerformanceTesting 1-92,text,true,,282,231,1,1,http://localhost:3001/character,1,0,0
+1745606809239,0,ChangeHero,200,OK,PerformanceTesting 1-92,text,true,,277,233,1,1,http://localhost:3001/character/69,0,0,0
+1745606809240,0,DeleteHero,200,OK,PerformanceTesting 1-92,text,true,,293,185,1,1,http://localhost:3001/character/69,0,0,0
+1745606809244,1,All characters,200,OK,PerformanceTesting 1-93,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809245,1,GetById,200,OK,PerformanceTesting 1-93,text,true,,277,163,1,1,http://localhost:3001/character/52,1,0,0
+1745606809246,0,CreateHero,201,Created,PerformanceTesting 1-93,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809247,0,ChangeHero,200,OK,PerformanceTesting 1-93,text,true,,277,233,1,1,http://localhost:3001/character/52,0,0,0
+1745606809248,0,DeleteHero,200,OK,PerformanceTesting 1-93,text,true,,293,185,1,1,http://localhost:3001/character/52,0,0,0
+1745606809255,1,All characters,200,OK,PerformanceTesting 1-94,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809257,0,GetById,200,OK,PerformanceTesting 1-94,text,true,,277,163,1,1,http://localhost:3001/character/63,0,0,0
+1745606809257,1,CreateHero,201,Created,PerformanceTesting 1-94,text,true,,282,231,1,1,http://localhost:3001/character,1,0,0
+1745606809259,0,ChangeHero,200,OK,PerformanceTesting 1-94,text,true,,277,233,1,1,http://localhost:3001/character/63,0,0,0
+1745606809260,0,DeleteHero,200,OK,PerformanceTesting 1-94,text,true,,293,185,1,1,http://localhost:3001/character/63,0,0,0
+1745606809266,1,All characters,200,OK,PerformanceTesting 1-95,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809267,1,GetById,200,OK,PerformanceTesting 1-95,text,true,,277,163,1,1,http://localhost:3001/character/77,1,0,0
+1745606809268,0,CreateHero,201,Created,PerformanceTesting 1-95,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809269,1,ChangeHero,200,OK,PerformanceTesting 1-95,text,true,,277,233,1,1,http://localhost:3001/character/77,0,0,0
+1745606809270,1,DeleteHero,200,OK,PerformanceTesting 1-95,text,true,,293,185,1,1,http://localhost:3001/character/77,1,0,0
+1745606809275,1,All characters,200,OK,PerformanceTesting 1-96,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809277,0,GetById,200,OK,PerformanceTesting 1-96,text,true,,277,163,1,1,http://localhost:3001/character/85,0,0,0
+1745606809277,0,CreateHero,201,Created,PerformanceTesting 1-96,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809278,0,ChangeHero,200,OK,PerformanceTesting 1-96,text,true,,277,233,1,1,http://localhost:3001/character/85,0,0,0
+1745606809279,0,DeleteHero,200,OK,PerformanceTesting 1-96,text,true,,293,185,1,1,http://localhost:3001/character/85,0,0,0
+1745606809281,1,All characters,200,OK,PerformanceTesting 1-97,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809282,1,GetById,200,OK,PerformanceTesting 1-97,text,true,,277,163,1,1,http://localhost:3001/character/64,1,0,0
+1745606809283,0,CreateHero,201,Created,PerformanceTesting 1-97,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809284,0,ChangeHero,200,OK,PerformanceTesting 1-97,text,true,,277,233,1,1,http://localhost:3001/character/64,0,0,0
+1745606809291,1,DeleteHero,200,OK,PerformanceTesting 1-97,text,true,,293,185,2,2,http://localhost:3001/character/64,1,0,0
+1745606809292,1,All characters,200,OK,PerformanceTesting 1-98,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809293,1,GetById,200,OK,PerformanceTesting 1-98,text,true,,277,163,1,1,http://localhost:3001/character/69,1,0,0
+1745606809294,0,CreateHero,201,Created,PerformanceTesting 1-98,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809295,0,ChangeHero,200,OK,PerformanceTesting 1-98,text,true,,277,233,1,1,http://localhost:3001/character/69,0,0,0
+1745606809296,1,DeleteHero,200,OK,PerformanceTesting 1-98,text,true,,293,185,1,1,http://localhost:3001/character/69,1,0,0
+1745606809305,1,All characters,200,OK,PerformanceTesting 1-99,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,0
+1745606809306,0,GetById,200,OK,PerformanceTesting 1-99,text,true,,277,163,1,1,http://localhost:3001/character/98,0,0,0
+1745606809307,0,CreateHero,201,Created,PerformanceTesting 1-99,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809308,0,ChangeHero,200,OK,PerformanceTesting 1-99,text,true,,277,233,1,1,http://localhost:3001/character/98,0,0,0
+1745606809308,1,DeleteHero,200,OK,PerformanceTesting 1-99,text,true,,293,185,1,1,http://localhost:3001/character/98,1,0,0
+1745606809315,1,All characters,200,OK,PerformanceTesting 1-100,text,true,,3171,161,1,1,http://localhost:3001/characters,1,0,1
+1745606809317,0,GetById,200,OK,PerformanceTesting 1-100,text,true,,277,163,1,1,http://localhost:3001/character/72,0,0,0
+1745606809317,0,CreateHero,201,Created,PerformanceTesting 1-100,text,true,,282,231,1,1,http://localhost:3001/character,0,0,0
+1745606809318,0,ChangeHero,200,OK,PerformanceTesting 1-100,text,true,,277,233,1,1,http://localhost:3001/character/72,0,0,0
+1745606809319,1,DeleteHero,200,OK,PerformanceTesting 1-100,text,true,,293,185,1,1,http://localhost:3001/character/72,1,0,0
